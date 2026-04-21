@@ -26,7 +26,6 @@
     "msgpack-lite": "^0.1.26",
     "mysql": "^2.18.1",
     "mysql2": "^2.2.5",
-    "nodejs-captcha": "^0.0.6",
     "request": "^2.88.2",
     "validator": "^13.6.0"
   },
@@ -43,8 +42,8 @@
   },
   "author": {
     "name": "Tran Do Duc Nghia",
-    "email": "trandoducnghia@gmail.com",
-    "url": "https://github.com/trandoducnghia"
+    "email": "huytngtb023590@gmail.com",
+    "url": "https://github.com/"
   },
   "license": "ISC"
 }
